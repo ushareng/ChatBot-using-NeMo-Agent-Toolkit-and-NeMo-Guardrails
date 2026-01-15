@@ -1,0 +1,9 @@
+define flow main
+  when user message
+    $q = $last_user_message
+
+    if $q contains "api key" or $q contains "password" or $q contains "credential"
+      bot "I can’t help with secrets or credentials."
+      stop
+
+    bot "ALLOW"
