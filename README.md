@@ -29,8 +29,9 @@ The chatbot demonstrates how to combine **agent execution** with **guardrails-st
 .
 ├── app.py
 ├── nat_config.yml
-├── config.yml
-└── rails.co
+└── rails_config/
+    ├── config.yml
+    └── rails.co
 ```
 
 ---
