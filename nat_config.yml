@@ -1,0 +1,18 @@
+functions:
+  current_datetime:
+    _type: current_datetime
+
+llms:
+  nim_llm:
+    _type: nim
+    model_name: meta/llama-3.1-8b-instruct
+    base_url: https://integrate.api.nvidia.com/v1
+    max_tokens: 256
+    temperature: 0.0
+
+workflow:
+  _type: tool_calling_agent
+  tool_names: [current_datetime]
+  llm_name: nim_llm
+  verbose: false
+  handle_tool_errors: true
