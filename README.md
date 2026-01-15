@@ -8,6 +8,9 @@ This project is a **command-line chatbot** that integrates:
 
 The chatbot demonstrates how to combine **agent execution** with **guardrails-style policy enforcement** in a simple, inspectable setup.
 
+<img width="757" height="222" alt="Demo" src="https://github.com/user-attachments/assets/2e4c71b6-7504-4304-894a-7057deb4c4d9" />
+
+
 ---
 
 ## How it works
