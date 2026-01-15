@@ -72,7 +72,12 @@ Exit using `exit` or `quit`.
 
 ---
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
+Copyright (c) 2026 **Usha Rengaraju**
+
+See the [LICENSE](LICENSE) file for details.
+
 
