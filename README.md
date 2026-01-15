@@ -71,4 +71,5 @@ Exit using `exit` or `quit`.
 
 ## License
 
-Add a LICENSE file to specify usage terms.
+This project is licensed under the MIT License.
+
